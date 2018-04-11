@@ -4,7 +4,7 @@ import re
 import telebot
 from datetime import datetime
 
-token = '530241878:AAE5Up637Bs0INqgsQM4HFcur2zeIW5ysoQ'
+token = 'my_token'
 TelegramBot = telebot.TeleBot(token)
 cities_list = ['Baltata', 'Balti', 'Bravicea', 'Briceni', 'Cahul', 'Camenca',
                'Ceadir-Lunga', 'Chisinau', 'Codrii', 'Comrat', 'Cornesti',
